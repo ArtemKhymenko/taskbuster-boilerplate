@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"asser",
+				"assertNotIn"
+			],
+			[
+				"get",
+				"get_env_variable	function"
+			],
+			[
+				"Secret",
+				"SECRET_KEY"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"last_filter": "sublimeCode",
+		"selected_items":
+		[
+			[
+				"sublimeCode",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"sublime",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"packaga",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"command: handle_enter_key",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(True)</code>",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/artem/taskbuster_project",
+		"/home/artem/taskbuster_project/functional_tests",
+		"/home/artem/taskbuster_project/taskbuster",
+		"/home/artem/taskbuster_project/taskbuster/__pycache__",
+		"/home/artem/taskbuster_project/taskbuster/static",
+		"/home/artem/taskbuster_project/taskbuster/templates",
+		"/home/artem/taskbuster_project/taskbuster/templates/taskbuster"
+	],
+	"file_history":
+	[
+		"/home/artem/taskbuster_project/taskbuster/views.py",
+		"/home/artem/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/artem/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/artem/taskbuster_project/requirements/testing.txt",
+		"/home/artem/taskbuster_project/taskbuster/templates/base.html",
+		"/home/artem/taskbuster_project/taskbuster/templates/humans.txt",
+		"/home/artem/taskbuster_project/taskbuster/templates/robots.txt",
+		"/home/artem/.config/sublime-text-3/Packages/User/Default (Linux).sublime-mousemap",
+		"/home/artem/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/artem/taskbuster_project/taskbuster/urls.py",
+		"/home/artem/taskbuster_project/functional_tests/test_all_users.py",
+		"/home/artem/taskbuster_project/taskbuster/templates/taskbuster/index.html",
+		"/home/artem/taskbuster_project/taskbuster/static/css/main.css",
+		"/home/artem/taskbuster_project/taskbuster/test.py",
+		"/home/artem/.config/sublime-text-3/Packages/User/Python Django.sublime-settings",
+		"/home/artem/taskbuster_project/taskbuster/settings/base.py",
+		"/home/artem/taskbuster_project/taskbuster/settings/staging.py",
+		"/home/artem/taskbuster_project/taskbuster/settings/production.py",
+		"/home/artem/taskbuster_project/taskbuster/settings/testing.py",
+		"/home/artem/taskbuster_project/taskbuster/settings/development.py",
+		"/home/artem/taskbuster_project/functional_tests/all_users.py",
+		"/home/artem/projectfolder"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auto",
+			"visible",
+			"hide",
+			"auto_co",
+			"auto_com",
+			"auto_comlete",
+			"main",
+			"rgba(2",
+			"rgba",
+			"rgba(51, 51, 51, 1)",
+			"rgba",
+			"link rel",
+			"handle_enter_key"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TaskBuster.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
