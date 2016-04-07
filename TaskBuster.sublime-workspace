@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"block",
+				"blocktrans	blocktrans"
+			],
+			[
+				"url",
+				"urlpatterns	statement"
+			],
+			[
 				"asser",
 				"assertNotIn"
 			],
@@ -74,19 +82,28 @@
 	[
 		"/home/artem/taskbuster_project",
 		"/home/artem/taskbuster_project/functional_tests",
+		"/home/artem/taskbuster_project/requirements",
 		"/home/artem/taskbuster_project/taskbuster",
-		"/home/artem/taskbuster_project/taskbuster/__pycache__",
-		"/home/artem/taskbuster_project/taskbuster/static",
+		"/home/artem/taskbuster_project/taskbuster/locale/ca",
+		"/home/artem/taskbuster_project/taskbuster/locale/ca/LC_MESSAGES",
+		"/home/artem/taskbuster_project/taskbuster/settings",
 		"/home/artem/taskbuster_project/taskbuster/templates",
 		"/home/artem/taskbuster_project/taskbuster/templates/taskbuster"
 	],
 	"file_history":
 	[
+		"/home/artem/taskbuster_project/taskbuster/settings/base.py",
+		"/home/artem/taskbuster_project/functional_tests/test_all_users.py",
 		"/home/artem/taskbuster_project/taskbuster/views.py",
-		"/home/artem/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/artem/taskbuster_project/taskbuster/templates/taskbuster/index.html",
+		"/home/artem/taskbuster_project/requirements/base.txt",
+		"/home/artem/taskbuster_project/taskbuster/locale/ca/LC_MESSAGES/django.po",
+		"/home/artem/taskbuster_project/taskbuster/test.py",
+		"/home/artem/taskbuster_project/taskbuster/urls.py",
 		"/home/artem/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/artem/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
 		"/home/artem/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/artem/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/artem/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
 		"/home/artem/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/artem/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
 		"/home/artem/taskbuster_project/requirements/testing.txt",
@@ -101,13 +118,8 @@
 		"/home/artem/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
 		"/home/artem/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
 		"/home/artem/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
-		"/home/artem/taskbuster_project/taskbuster/urls.py",
-		"/home/artem/taskbuster_project/functional_tests/test_all_users.py",
-		"/home/artem/taskbuster_project/taskbuster/templates/taskbuster/index.html",
 		"/home/artem/taskbuster_project/taskbuster/static/css/main.css",
-		"/home/artem/taskbuster_project/taskbuster/test.py",
 		"/home/artem/.config/sublime-text-3/Packages/User/Python Django.sublime-settings",
-		"/home/artem/taskbuster_project/taskbuster/settings/base.py",
 		"/home/artem/taskbuster_project/taskbuster/settings/staging.py",
 		"/home/artem/taskbuster_project/taskbuster/settings/production.py",
 		"/home/artem/taskbuster_project/taskbuster/settings/testing.py",
@@ -132,6 +144,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ignor",
 			"auto",
 			"visible",
 			"hide",
